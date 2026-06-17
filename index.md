@@ -4,5 +4,4 @@ title: Home
 
 # Welcome to My Blog!
 
-こんにちは！ここに自己紹介や、このブログで発信していきたいことなどを自由に書いてみましょう。
-Markdownが使えるので、見出しや箇条書きも自由にレイアウトできます。
+GitHub PagesとJekyllを使って作ったマイホームページです。
